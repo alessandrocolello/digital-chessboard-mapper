@@ -120,6 +120,6 @@ svg_string = chess.svg.board(board=board, coordinates=False, colors={'square lig
 
 # Save the SVG representation of the chessboard
 print('Saving chessboard')
-with open('../demo/predicted_chessbord.svg', 'w') as f:
+with open('../demo/predicted_chessboard.svg', 'w') as f:
 
     f.write(svg_string)
