@@ -34,4 +34,4 @@ of such chessboards. The devised programme uses three convolutional neural netwo
 6. Predicted chessboard.
    ![Predicted digital chessboard](demo/predicted_chessboard.png)
 
-[![Real-Time Video Application Showcase](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Real-Time Video Application Showcase](https://img.youtube.com/vi/ZVWDbiI0f2M/0.jpg)](https://www.youtube.com/watch?v=ZVWDbiI0f2M)
