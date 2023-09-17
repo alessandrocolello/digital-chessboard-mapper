@@ -17,22 +17,22 @@ of such chessboards. The devised programme uses three convolutional neural netwo
 ## Screenshots/Demo
 
 1. Image of a chessboard taken as input.
-   <center><img src="demo/demo_image.jpeg" width="300" height="300"></center>
+   <img src="demo/demo_image.jpeg" width="300" height="300">
 
-3. Mask of the generated chessboard.
-   <center><img src="demo/chessboard_mask.png" width="300" height="300"></center>
+2. Mask of the generated chessboard.
+   <img src="demo/chessboard_mask.png" width="300" height="300">
 
-5. Predicted corners of the chessboard.
-   <center><img src="demo/predicted_corners.png" width="300" height="300"></center>
+3. Predicted corners of the chessboard.
+   <img src="demo/predicted_corners.png" width="300" height="300">
 
-7. Perspective transformed and rotated image.
-   <center><img src="demo/rotated_transformed_image.png" width="300" height="300"></center>
+4. Perspective transformed and rotated image.
+   <img src="demo/rotated_transformed_image.png" width="300" height="300">
    
-9. Extracted squares.
-    <center><img src="demo/extracteed_squares.png" width="300" height="300"></center>
+5. Extracted squares.
+   <img src="demo/extracteed_squares.png" width="300" height="300">
 
-11. Predicted chessboard.
-    <center><img src="demo/predicted_chessboard.png" width="300" height="300"></center>
+6. Predicted chessboard.
+   <img src="demo/predicted_chessboard.png" width="300" height="300">
 
-### Real-Time Video Application Showcase:
+Real-Time Video Application Showcase:
 [![Watch the video](https://img.youtube.com/vi/ZVWDbiI0f2M/default.jpg)](https://youtu.be/ZVWDbiI0f2M)
