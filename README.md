@@ -39,4 +39,5 @@ of such chessboards. The devised programme uses three convolutional neural netwo
    <img src="demo/extracted_squares.png" width="300" height="300">
 
 6. Predicted chessboard.
+   
    <img src="demo/predicted_chessboard.png" width="300" height="300">
