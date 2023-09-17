@@ -16,22 +16,27 @@ of such chessboards. The devised programme uses three convolutional neural netwo
 
 ## Screenshots/Demo
 
+[Watch a Real-Time Video Application Showcase](https://youtu.be/ZVWDbiI0f2M)
+
 1. Image of a chessboard taken as input.
-   ![Real chessboard image](demo/demo_image.jpeg)
+   
+   <img src="demo/demo_image.jpeg" width="300" height="300">
 
 2. Mask of the generated chessboard.
-   ![Highlighted chessboard](demo/chessboard_mask.png)
+   
+   <img src="demo/highlighted_chessboard.png" width="300" height="300">
 
 3. Predicted corners of the chessboard.
-   ![Detected cheessboard corners](demo/predicted_corners.png)
+   
+   <img src="demo/predicted_corners.png" width="300" height="300">
 
 4. Perspective transformed and rotated image.
-   ![Perspective transformed and rotated image](demo/rotated_transformed_image.png)
+   
+   <img src="demo/rotated_transformed_image.png" width="300" height="300">
    
 5. Extracted squares.
-   ![Extracted squares](demo/extracted_squares.png)
+    
+   <img src="demo/extracted_squares.png" width="300" height="300">
 
 6. Predicted chessboard.
-   ![Predicted digital chessboard](demo/predicted_chessboard.png)
-
-[![Real-Time Video Application Showcase](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+   <img src="demo/predicted_chessboard.png" width="300" height="300">
